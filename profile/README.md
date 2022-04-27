@@ -5,11 +5,11 @@ We make games and other stuff using python and other programming languages like 
 
 * Members
 
-  * @DeVER-M
+  * [@DeVER-M](https://github.com/DevER-M)
 
-  * @Chibong3020
+  * [@Chibong3020](https://github.com/Chibong3020)
 
-  * @BananaBoii600
+  * [@BananaBoii600](https://github.com/BananaBoii600)
 
 ## 🌐Socials
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/8qSKActY) 
