@@ -47,7 +47,7 @@ We make games and other stuff using python and other programming languages like 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=DeVER-M&theme=radical&hide_border=true" align="right" style="width: 45%" />
 </div> 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeVER-M&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact" align="center" style="width: 45%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeVER-M&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact" align="center" style="width: 45%" />
 </div>
  
 ---
