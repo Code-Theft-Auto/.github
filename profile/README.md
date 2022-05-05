@@ -1,7 +1,7 @@
 # 💫About Us :
 ### Hey! We are Code-Theft-Auto or CTA for short!
 
-We make games and other stuff using python and other programming languages like C# and Rust!
+We specialize in games and other software using python, C#, Rust, C++, Golang, Godot Engine and gdscript!
 
 * Members
 
